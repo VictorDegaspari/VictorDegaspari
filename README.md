@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🌱 I’m currently learning Javascript, React and Node.
+- 🔭 I’m currently working on ecommerce back-end.
+- 📫 How to reach me: vdegaspari.vm@gmail.com
+
 
 <!--
 **VictorDegaspari/VictorDegaspari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
