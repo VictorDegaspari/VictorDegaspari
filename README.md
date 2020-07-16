@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Javascript, React and Node.
 - 🔭 I’m currently working on ecommerce back-end.
-- 📫 How to reach me: vdegaspari.vm@gmail.com
+- 📫 How to reach me on Instagram: https://www.instagram.com/victor.degaspari/
 
 
 <!--
