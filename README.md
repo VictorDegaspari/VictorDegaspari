@@ -1,5 +1,5 @@
 ### Victor Degaspari 
-[![Twitter Badge](https://img.shields.io/badge/-@VictorDegaspari-66333cc?style=flat-square&labelColor=66333cc0&logo=twitter&logoColor=white&link=https://twitter.com/Victor Degaspari)](https://twitter.com/VictorDegaspari) 
+![VictorINSTA](https://user-images.githubusercontent.com/61597038/89795133-66d4ec80-dafe-11ea-8f01-508c8ac513e0.png)(https://instagram.com/victor.degaspari) 
 
 - 🌱 I’m currently learning Javascript, React and Node.
 - 🔭 I’m currently working on ecommerce back-end.
