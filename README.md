@@ -1,5 +1,5 @@
 ### Victor Degaspari 
-https://img.shields.io/twitter/url?label=VictorDegaspari&style=social&url=https%3A%2F%2Ftwitter.com%2FVictorDegaspari
+
 
 - 🌱 I’m currently learning Javascript, React and Node.
 - 🔭 I’m currently working on ecommerce back-end.
