@@ -1,4 +1,6 @@
 ### Victor Degaspari 
+[![Twitter Badge](https://img.shields.io/badge/-@VictorDegaspari-c7e9c0?style=flat-square&labelColor=c7e9c0&logo=twitter&logoColor=white&link=https://twitter.com/Victor Degaspari)](https://twitter.com/VictorDegaspari) 
+
 - 🌱 I’m currently learning Javascript, React and Node.
 - 🔭 I’m currently working on ecommerce back-end.
 - 📫 How to reach me on Instagram: https://www.instagram.com/victor.degaspari/
