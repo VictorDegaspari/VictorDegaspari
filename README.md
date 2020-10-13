@@ -1,7 +1,7 @@
 ### Victor Degaspari 
 
 
-- 🌱 I’m currently learning Javascript(jQuery), React, Django and Node.
+- 🌱 I’m currently learning Javascript, React, Django and Node.
 - 🔭 I’m currently working on ecommerce back-end and front-end website.
 - 📫 How to reach me on Instagram: https://www.instagram.com/victor.degaspari/
 
