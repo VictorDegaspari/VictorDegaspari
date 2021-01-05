@@ -1,7 +1,7 @@
 ### Victor Degaspari 
 
 
-- 🌱 I’m currently learning Javascript, React and Vue.
+- 🌱 I’m currently learning Javascript, Django and Vue.
 - 🔭 I’m currently working on ecommerce back-end and front-end website.
 - 📫 How to reach me on Instagram: https://www.instagram.com/victor.degaspari/
 - 📚 Studying Systems Analysis at Universidade Tecnológica Federal do Paraná.
