@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning Javascript, Django and Vue.
-- 🔭 I’m currently working on ecommerce back-end and front-end website.
+- 🔭 I’m currently working on back-end (Adonis.Js) and front-end website (Vue.Js).
 - 📫 How to reach me on Instagram: https://www.instagram.com/victor.degaspari/
 - 📚 Systems Analysis at Universidade Tecnológica Federal do Paraná.
 
