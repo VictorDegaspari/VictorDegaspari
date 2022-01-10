@@ -1,8 +1,7 @@
 ### Victor Degaspari 
 
 
-- 🌱 I’m currently learning Javascript, Django and Vue.
-- 🔭 I’m currently working on back-end (Adonis.Js) and front-end website (Vue.Js).
+- 🌱 I’m currently learning Javascript and PHP.
 - 📫 How to reach me on Instagram: https://www.instagram.com/victor.degaspari/
 - 📚 Systems Analysis at Universidade Tecnológica Federal do Paraná.
 
