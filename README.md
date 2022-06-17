@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Javascript and PHP.
 - 📫 How to reach me on Instagram: https://www.instagram.com/victor.degaspari/
-- 📚 Systems Analysis at Universidade Tecnológica Federal do Paraná.
+- 📚 Systems Analysis at Federal Technological University of Paraná.
 
 
 <!--
